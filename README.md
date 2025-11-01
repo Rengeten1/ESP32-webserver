@@ -48,3 +48,7 @@ Choose the cloned directory.
 Change the password and SSID.
 
 Then build, upload and done!
+
+If done correctly should show something like this:
+
+![terminal-output](img/output-terminal.png)
