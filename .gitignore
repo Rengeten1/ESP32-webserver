@@ -1,0 +1,16 @@
+.pio/
+.vscode/
+.clang_format
+.cppclang_format
+cmake-build-*/
+.idea/
+*.swp
+*.swo
+*~
+*.o
+*.a
+*.so
+*.dylib
+*.dll
+*.exe
+.DS_Store
