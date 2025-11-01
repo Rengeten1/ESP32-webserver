@@ -41,6 +41,10 @@ There were no external wiring used as the built-in led was used.
 git clone https://github.com/Rengeten1/esp32-webserver.git
 ```
 
-Open either vscode and click open project.
+Open VScode and click open project.
 
-Then build, upload and done.
+Choose the cloned directory.
+
+Change the password and SSID.
+
+Then build, upload and done!
